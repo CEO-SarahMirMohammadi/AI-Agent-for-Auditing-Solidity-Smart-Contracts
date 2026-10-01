@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-06-12 08:03:09.431252",
+  "groq_api_url": "https://api.groq.com/openai/v1/models",
+  "groq_model_configured": "llama-3.3-70b-versatile",
+  "total_available_models": 16,
+  "available_models": [
+    "openai/gpt-oss-120b",
+    "canopylabs/orpheus-arabic-saudi",
+    "meta-llama/llama-4-scout-17b-16e-instruct",
+    "openai/gpt-oss-20b",
+    "allam-2-7b",
+    "llama-3.1-8b-instant",
+    "meta-llama/llama-prompt-guard-2-86m",
+    "whisper-large-v3",
+    "whisper-large-v3-turbo",
+    "openai/gpt-oss-safeguard-20b",
+    "llama-3.3-70b-versatile",
+    "groq/compound",
+    "qwen/qwen3-32b",
+    "meta-llama/llama-prompt-guard-2-22m",
+    "groq/compound-mini",
+    "canopylabs/orpheus-v1-english"
+  ],
+  "known_groq_models": [
+    "llama-3.3-70b-versatile",
+    "llama-3.1-8b-instant",
+    "llama-3.1-70b-versatile",
+    "gpt-4o-mini",
+    "gpt-4o",
+    "groq-1",
+    "groq-1-mini"
+  ],
+  "validation": {
+    "groq_model_exists": true,
+    "first_available_model": "openai/gpt-oss-120b"
+  }
+}

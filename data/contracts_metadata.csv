@@ -1,0 +1,4 @@
+filename,description,source_path
+Example.sol,Basic example contract used in README,examples/example_contract.sol
+Vulnerable.sol,Reentrancy-vulnerable demo,examples/vulnerable_reentrancy.sol
+Safe.sol,Safe contract demonstrating checks-effects-interactions,examples/safe_contract.sol

@@ -1,0 +1,4 @@
+filename,loc,num_functions,num_modifiers,num_low_level_calls,num_branches,num_assembly,num_payable,label
+Example.sol,34,3,1,1,6,0,1,normal
+Vulnerable.sol,72,6,0,3,12,0,2,suspicious
+LargeComplex.sol,300,18,4,2,40,1,6,complex
