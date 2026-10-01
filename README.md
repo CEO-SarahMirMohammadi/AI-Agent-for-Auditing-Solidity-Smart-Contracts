@@ -1,6 +1,3 @@
-# Audit AI Agent (Solidity)
-# Sarah MirMohammadi _ Class:AI _ Section:yekshanbe 1:15
-
 A professional, easy-to-use Solidity auditing assistant built in Python.
 This project combines static code checks, a lightweight ML anomaly detector,
 and a Groq LLM reviewer to help you inspect smart contracts.
